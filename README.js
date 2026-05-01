@@ -79,7 +79,7 @@ console.log("Remaining steps to reach goal: " + remainingSteps);
 console.log("Baby Step Tracker is running successfully!");
     
 
-         // array iteration method  concat split 
+         // array iteration method  concat method 
                  // checking twoweeks progress
 
 let week1 = [14, 20, 30, 45, 50];
@@ -89,7 +89,6 @@ let week2 = [60, 75, 85, 95, 100];
 
 
 let allWeeks = "twoWeeksProgress";
-        allWeeks.split
          console.log(allWeeks);
 
 let twoWeeksProgress = week1.concat(week2);
