@@ -2,13 +2,14 @@
 
  /*
         PSEUDOCODE:
-        1. Store baby information
+        1. Store baby name and steps information
         2. Check if the baby is standing
         3. Display a welcome message
         4. Store daily step counts in an array
         5. Show today's steps
         6. Loop through all recorded steps
         7. Calculate remaining steps to reach the goal
+        8. Compare two weeks progress
         */
 
 
